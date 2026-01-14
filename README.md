@@ -1,0 +1,2 @@
+# Data-Engginering-UK-road-saftey-data-pipline-create-project-
+This student project demonstrates data engineering and business data analysis skills through the design of an end to end data pipeline. It involves data collection, cleaning, transformation, storage, and analysis to generate insights. The project emphasizes SQL, Python, and visualization techniques suitable for academic and GitHub presentation. End
